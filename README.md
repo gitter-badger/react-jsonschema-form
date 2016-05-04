@@ -1,6 +1,8 @@
 react-jsonschema-form
 =====================
 
+[![Join the chat at https://gitter.im/mozilla-services/react-jsonschema-form](https://badges.gitter.im/mozilla-services/react-jsonschema-form.svg)](https://gitter.im/mozilla-services/react-jsonschema-form?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/mozilla-services/react-jsonschema-form.svg)](https://travis-ci.org/mozilla-services/react-jsonschema-form)
 
 A simple [React](http://facebook.github.io/react/) component capable of building HTML forms out of a [JSON schema](http://jsonschema.net/) and using [Bootstrap](http://getbootstrap.com/) semantics by default.
